@@ -1,0 +1,6 @@
+data/lorenz_det_data.mat filter=lfs diff=lfs merge=lfs -text
+data/reaction_diffusion.mat filter=lfs diff=lfs merge=lfs -text
+data/BZ.mat filter=lfs diff=lfs merge=lfs -text
+data/KS.mat filter=lfs diff=lfs merge=lfs -text
+data/hare_lynx_data.csv filter=lfs diff=lfs merge=lfs -text
+data/lorenz_data.mat filter=lfs diff=lfs merge=lfs -text
