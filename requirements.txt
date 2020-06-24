@@ -186,11 +186,10 @@ sphinx=1.4=pypi_0
 sphinx-rtd-theme=0.4.3=pypi_0
 sqlite=3.31.1=h2a8f88b_1
 sympy=1.6=pypi_0
-tensorboard=2.2.1=pyh532a8cf_0
+tensorboard=1.15.0=pypi_0
 tensorboard-plugin-wit=1.6.0=py_0
-tensorflow=1.15.0=eigen_py37h9f89a44_0
-tensorflow-base=1.15.0=eigen_py37h07d2309_0
-tensorflow-estimator=1.15.1=pyh2649769_0
+tensorflow=1.15.2=pypi_0
+tensorflow-estimator=1.15.2=pypi_0
 termcolor=1.1.0=py37_1
 terminado=0.8.3=py37_0
 testpath=0.4.4=py_0
